@@ -5,11 +5,9 @@
   font-family: Arial, sans-serif;
 }
 
-body {
-  line-height: 1.6;
-}
 
-/* Header */
+
+
 header {
   background: #333;
   color: white;
@@ -23,11 +21,9 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
-  text-decoration: underline;
-}
 
-/* Sections */
+
+
 .section {
   padding: 60px 20px;
   text-align: center;
@@ -41,7 +37,7 @@ nav a:hover {
   margin-bottom: 15px;
 }
 
-/* Footer */
+
 footer {
   background: #333;
   color: white;
